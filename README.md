@@ -1,9 +1,21 @@
 # HERO-System-Character-Records-Manager
 This Program, tentativly named 'Cloak', is a program for making the HERO System Tabletop Role-Playing-Game easier to play. The System, while it provides a great deal of customization in character creation, is very complex and requires a large time investment to begin. My aim is to make that time investment much smaller by automating all the calculations and creating an ogranized interface that smooths out the process of character generation and management during a game session.\
 Download the Project and Run it from the Main.java file, these files were created in eclipse so you may need to remove the package identifier line at the top.
+## Updates
+2/21/2018\
+	Began Planning
+3/1/2018\
+	Began Using SceneBuilder to create GUI for main character creator
+3/15/2018\
+	completed the main fxml files for the GUI using SceneBuilder, and finished all the sub panels that are context sensitive.\
+3/28/2018\
+	Fixed the Main.java file so it would Run the GUI as it is\
+	added the project to GitHub\
+3/29/2018\
+	oulined Scope beyond the CapStone aspect and began documenting project updates(including retroactive progress)
 ## Scope
 Part of this project will be completed for my CapStone at Southwest Technical College.\
-### CapStone Section
+### CapStone Scope
 1. Have the Character Database running live on my laptop
 2. Create a program that manages that database\
 	include
