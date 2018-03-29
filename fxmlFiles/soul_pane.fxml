@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.GridPane?>
+
+<GridPane hgap="5.0" vgap="5.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label text="Enemy Name" />
+      <Label text="Quality" GridPane.columnIndex="1" />
+      <Label text="Worth" GridPane.columnIndex="2" />
+      <Button mnemonicParsing="false" text="Forge" GridPane.rowIndex="1" />
+      <Button alignment="CENTER_RIGHT" mnemonicParsing="false" text="Break (worth)" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <Button mnemonicParsing="false" text="Remove" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+      <TextArea prefHeight="125.0" prefWidth="200.0" promptText="Forging Info :" wrapText="true" GridPane.columnSpan="3" GridPane.rowIndex="2" />
+   </children>
+   <columnConstraints>
+      <ColumnConstraints hgrow="ALWAYS" minWidth="10.0" />
+      <ColumnConstraints halignment="RIGHT" hgrow="ALWAYS" minWidth="10.0" />
+      <ColumnConstraints hgrow="ALWAYS" minWidth="10.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints minHeight="10.0" />
+      <RowConstraints minHeight="10.0" />
+   </rowConstraints>
+</GridPane>

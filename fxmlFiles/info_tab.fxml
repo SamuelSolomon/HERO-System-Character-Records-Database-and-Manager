@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<ScrollPane fitToHeight="true" fitToWidth="true" pannable="true" prefHeight="352.0" prefWidth="915.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <HBox minHeight="-Infinity" minWidth="-Infinity" spacing="10.0">
+         <children>
+            <ScrollPane fitToWidth="true" pannable="true" prefWidth="150.0" HBox.hgrow="ALWAYS">
+               <content>
+                  <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                     <children>
+                        <Label contentDisplay="RIGHT" text="General">
+                           <font>
+                              <Font name="System Bold Italic" size="14.0" />
+                           </font>
+                        </Label>
+                        <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+               </content>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+               <padding>
+                  <Insets top="10.0" />
+               </padding>
+            </ScrollPane>
+            <ScrollPane fitToWidth="true" layoutX="10.0" layoutY="10.0" pannable="true" prefWidth="150.0" HBox.hgrow="ALWAYS">
+               <content>
+                  <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                     <children>
+                        <Label contentDisplay="RIGHT" text="Appearance">
+                           <font>
+                              <Font name="System Bold Italic" size="14.0" />
+                           </font>
+                        </Label>
+                        <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+               </content>
+               <padding>
+                  <Insets top="10.0" />
+               </padding>
+            </ScrollPane>
+            <ScrollPane fitToWidth="true" layoutX="773.0" layoutY="10.0" pannable="true" prefWidth="150.0" HBox.hgrow="ALWAYS">
+               <content>
+                  <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                     <children>
+                        <Label contentDisplay="RIGHT" text="Mentality">
+                           <font>
+                              <Font name="System Bold Italic" size="14.0" />
+                           </font>
+                        </Label>
+                        <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+               </content>
+               <padding>
+                  <Insets top="10.0" />
+               </padding>
+            </ScrollPane>
+            <ScrollPane fitToWidth="true" layoutX="773.0" layoutY="10.0" pannable="true" prefWidth="150.0" HBox.hgrow="ALWAYS">
+               <content>
+                  <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                     <children>
+                        <Label contentDisplay="RIGHT" text="Abilities">
+                           <font>
+                              <Font name="System Bold Italic" size="14.0" />
+                           </font>
+                        </Label>
+                        <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+               </content>
+               <padding>
+                  <Insets top="10.0" />
+               </padding>
+            </ScrollPane>
+            <ScrollPane fitToWidth="true" layoutX="773.0" layoutY="10.0" pannable="true" prefWidth="150.0" HBox.hgrow="ALWAYS">
+               <content>
+                  <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                     <children>
+                        <Label contentDisplay="RIGHT" text="History">
+                           <font>
+                              <Font name="System Bold Italic" size="14.0" />
+                           </font>
+                        </Label>
+                        <VBox minHeight="-Infinity" minWidth="-Infinity" spacing="5.0">
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                     <padding>
+                        <Insets bottom="10.0" left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+               </content>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+               <padding>
+                  <Insets top="10.0" />
+               </padding>
+            </ScrollPane>
+         </children>
+      </HBox>
+   </content>
+</ScrollPane>
