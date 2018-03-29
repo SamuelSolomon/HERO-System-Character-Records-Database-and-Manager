@@ -2,28 +2,26 @@
 This Program, tentativly named 'Cloak', is a program for making the HERO System Tabletop Role-Playing-Game easier to play. The System, while it provides a great deal of customization in character creation, is very complex and requires a large time investment to begin. My aim is to make that time investment much smaller by automating all the calculations and creating an ogranized interface that smooths out the process of character generation and management during a game session.\
 Download the Project and Run it from the Main.java file, these files were created in eclipse so you may need to remove the package identifier line at the top.
 ## Updates
-2/21/2018\
-	Began Planning
-3/1/2018\
-	Began Using SceneBuilder to create GUI for main character creator
-3/15/2018\
-	completed the main fxml files for the GUI using SceneBuilder, and finished all the sub panels that are context sensitive.\
-3/28/2018\
-	Fixed the Main.java file so it would Run the GUI as it is\
-	added the project to GitHub\
-3/29/2018\
-	oulined Scope beyond the CapStone aspect and began documenting project updates(including retroactive progress)
+**2/21/2018**\
+  Began Planning
+**3/1/2018**\
+  Began Using SceneBuilder to create GUI for main character creator
+**3/15/2018**\
+  completed the main fxml files for the GUI using SceneBuilder, and finished all the sub panels that are context sensitive.\
+**3/28/2018**\
+  Fixed the Main.java file so it would Run the GUI as it is\
+  added the project to GitHub\
+**3/29/2018**\
+  oulined Scope beyond the CapStone aspect and began documenting project updates(including retroactive progress)
 ## Scope
 Part of this project will be completed for my CapStone at Southwest Technical College.\
 ### CapStone Scope
 1. Have the Character Database running live on my laptop
 2. Create a program that manages that database\
-	include
 * an update method for taking information from the User program and updating the database information
 * a security protocol for that requires a user to enter a password before being able to update.
 * a retrieval method that returns the information contained about a specific character ID
 3. Create a Program that manages the GUI for creating and editing a character\
-	include
 * The ability to correctly view and interact with the Demographics, Story, and Stats pages.
 * A method to Save the data contained on the previously mentioned pages to a Character File.
 * A connection to the database manager that gives the information about a character to the database.
