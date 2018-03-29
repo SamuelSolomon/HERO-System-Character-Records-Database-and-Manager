@@ -1,6 +1,6 @@
 # HERO-System-Character-Records-Manager
 This Program, tentativly named 'Cloak', is a program for making the HERO System Tabletop Role-Playing-Game easier to play. The System, while it provides a great deal of customization in character creation, is very complex and requires a large time investment to begin. My aim is to make that time investment much smaller by automating all the calculations and creating an ogranized interface that smooths out the process of character generation and management during a game session.\
-Download the Project and Run it from the Main.java file, these files were created in eclipse so you may need to remove the package identifier line at the top.
+**Download the Project and Run it from the Main.java file, these files were created in eclipse so you may need to remove the package identifier line at the top.**
 ## Updates
 **2/21/2018**\
   Began Planning\
