@@ -3,16 +3,18 @@ This Program, tentativly named 'Cloak', is a program for making the HERO System 
 Download the Project and Run it from the Main.java file, these files were created in eclipse so you may need to remove the package identifier line at the top.
 ## Updates
 **2/21/2018**\
-  Began Planning
+  Began Planning\
 **3/1/2018**\
-  Began Using SceneBuilder to create GUI for main character creator
+  Began Using SceneBuilder to create GUI for main program\
 **3/15/2018**\
   completed the main fxml files for the GUI using SceneBuilder, and finished all the sub panels that are context sensitive.\
+**3/26/2018**\
+  Completed the Database Model in SQL Workbench
 **3/28/2018**\
   Fixed the Main.java file so it would Run the GUI as it is\
   added the project to GitHub\
 **3/29/2018**\
-  oulined Scope beyond the CapStone aspect and began documenting project updates(including retroactive progress)
+  oulined Scope beyond the CapStone aspect and began documenting project updates(retroactivly documented previous progress)
 ## Scope
 Part of this project will be completed for my CapStone at Southwest Technical College.\
 ### CapStone Scope
